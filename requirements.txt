@@ -1,0 +1,6 @@
+# Install lerobot with all features
+lerobot[all]
+
+# Alternative: Install with specific features only
+# lerobot[aloha,pusht]  # Specific features (Aloha & Pusht)
+# lerobot[feetech]      # Feetech motor support
